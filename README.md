@@ -8,7 +8,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-black?style=for-the-badge&logo=pandas)
 ![Finance](https://img.shields.io/badge/Finance-Analytics-green?style=for-the-badge)
 
-# 🚀 Industry-Level Financial Analytics Dashboard
+# 🚀 Financial Analytics Dashboard
 
 An interactive stock market analytics platform built using **Python, Streamlit, Plotly, Pandas, and Yahoo Finance API**.
 
